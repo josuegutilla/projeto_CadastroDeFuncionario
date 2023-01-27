@@ -1,0 +1,15 @@
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\Exercicio_lista\bin\Debug\net7.0\Exercicio_lista.exe
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\Exercicio_lista\bin\Debug\net7.0\Exercicio_lista.deps.json
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\Exercicio_lista\bin\Debug\net7.0\Exercicio_lista.runtimeconfig.json
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\Exercicio_lista\bin\Debug\net7.0\Exercicio_lista.dll
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\Exercicio_lista\bin\Debug\net7.0\Exercicio_lista.pdb
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\Exercicio_lista\obj\Debug\net7.0\Exercicio_lista.csproj.AssemblyReference.cache
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\Exercicio_lista\obj\Debug\net7.0\Exercicio_lista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\Exercicio_lista\obj\Debug\net7.0\Exercicio_lista.AssemblyInfoInputs.cache
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\Exercicio_lista\obj\Debug\net7.0\Exercicio_lista.AssemblyInfo.cs
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\Exercicio_lista\obj\Debug\net7.0\Exercicio_lista.csproj.CoreCompileInputs.cache
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\Exercicio_lista\obj\Debug\net7.0\Exercicio_lista.dll
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\Exercicio_lista\obj\Debug\net7.0\refint\Exercicio_lista.dll
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\Exercicio_lista\obj\Debug\net7.0\Exercicio_lista.pdb
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\Exercicio_lista\obj\Debug\net7.0\Exercicio_lista.genruntimeconfig.cache
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\Exercicio_lista\obj\Debug\net7.0\ref\Exercicio_lista.dll
